@@ -2,5 +2,4 @@
 ****
 seasonvar.com tests with webdriver + cucumber
 ****
-Launch
-npm test
+First do run.bat, then npm install and npm test
